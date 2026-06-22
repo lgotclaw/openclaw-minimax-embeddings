@@ -1,0 +1,19 @@
+{
+  "id": "openclaw-minimax-embeddings",
+  "name": "MiniMax Embeddings",
+  "description": "Memory embedding provider for MiniMax embo-01 via the existing minimax-portal OAuth profile. Use it with `agents.defaults.memorySearch.provider: \"minimax\"`.",
+  "version": "0.1.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "activation": {
+    "onStartup": true
+  },
+  "contracts": {
+    "embeddingProviders": [
+      "minimax"
+    ]
+  }
+}
