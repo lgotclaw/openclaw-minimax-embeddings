@@ -19,7 +19,7 @@ openclaw gateway restart
 Or via npm once published:
 
 ```bash
-openclaw plugins install @lgotclaw/openclaw-minimax-embeddings
+openclaw plugins install @gotclaw/openclaw-minimax-embeddings
 openclaw gateway restart
 ```
 

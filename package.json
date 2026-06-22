@@ -1,5 +1,5 @@
 {
-  "name": "@lgotclaw/openclaw-minimax-embeddings",
+  "name": "@gotclaw/openclaw-minimax-embeddings",
   "version": "0.1.0",
   "description": "OpenClaw memory embedding provider for MiniMax embo-01, via the existing minimax-portal OAuth profile.",
   "type": "module",
